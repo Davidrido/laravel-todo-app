@@ -1,0 +1,5 @@
+Nama Project    : todo-app
+Framework       : Laravel
+Database        : db_todo_laravel.sql
+Repository      : https://github.com/Davidrido/laravel-todo-app.git
+Visibility      : Public
