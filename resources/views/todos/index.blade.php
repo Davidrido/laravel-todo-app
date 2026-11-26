@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ZenBoard — Workspace ToDo</title>
+    <title>ToDo — Workspace ToDo</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -138,7 +138,7 @@
                     <i class="bi bi-kanban-fill fs-5"></i>
                 </div>
                 <div>
-                    <span class="brand-font fw-bold fs-4 tracking-tight">ZenBoard</span>
+                    <span class="brand-font fw-bold fs-4 tracking-tight">ToDo</span>
                     <span class="badge bg-dark border border-secondary text-secondary ms-2">Laravel 12</span>
                 </div>
             </div>

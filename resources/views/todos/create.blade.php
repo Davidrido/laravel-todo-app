@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tambah Tugas — ZenBoard</title>
+    <title>Tambah Tugas — ToDo</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -71,7 +71,7 @@
     <div class="container" style="max-width: 860px;">
         <div class="mb-3">
             <a href="{{ route('todos.index') }}" class="text-decoration-none text-secondary fw-medium">
-                <i class="bi bi-arrow-left me-1"></i> Kembali ke ZenBoard
+                <i class="bi bi-arrow-left me-1"></i> Kembali ke ToDo
             </a>
         </div>
 
