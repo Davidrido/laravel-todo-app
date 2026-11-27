@@ -139,7 +139,6 @@
                 </div>
                 <div>
                     <span class="brand-font fw-bold fs-4 tracking-tight">ToDo</span>
-                    <span class="badge bg-dark border border-secondary text-secondary ms-2">Laravel 12</span>
                 </div>
             </div>
 
