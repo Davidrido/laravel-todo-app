@@ -107,10 +107,10 @@
                     @csrf
 
                     <div class="mb-3">
-                        <label for="judul" class="form-label fw-medium small text-uppercase text-secondary">Judul ToDo <span class="text-danger">*</span></label>
+                        <label for="judul" class="form-label fw-medium small text-uppercase text-secondary">Nama Tugas <span class="text-danger">*</span></label>
                         <input type="text" class="form-control dark-input @error('judul') is-invalid @enderror" 
                                id="judul" name="judul" value="{{ old('judul') }}" 
-                               placeholder="Misal: Export SQL dan Push ke GitHub" required autofocus>
+                               placeholder="Misal: Tugas 1" required autofocus>
                         @error('judul')
                             <div class="invalid-feedback">{{ $message }}</div>
                         @enderror
